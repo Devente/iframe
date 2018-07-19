@@ -2,6 +2,7 @@
 跨域通信 | 父子页面传值
 
 父页面 ----> 子页面
+
 父页面：
  var s = {"data":"parentData"}
  $("#iframe_fu")[0].addEventListener('load',function(){
